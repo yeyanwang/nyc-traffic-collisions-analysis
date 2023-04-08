@@ -17,6 +17,7 @@ The project's primary goal is to analyze this data and gain insights into the fa
 
 ## Getting Started
 **Prerequisites**
+
 Make sure you have installed all of the following prerequisites on your development machine:
 - Git 
 - Python and set up your virtual environment 
