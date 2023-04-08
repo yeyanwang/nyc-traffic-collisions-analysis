@@ -29,16 +29,16 @@ Make sure you have installed all of the following prerequisites on your developm
 
 
 ## Installation
-1. Clone this repo and save it in your local directory 
+- Clone this repo and save it in your local directory 
 
     `git clone https://github.com/yeyanwang/nyc-traffic-collisions-analysis.git`
 
-2. Open the repo in a code editor 
-3. Start Flask app by running the following code in command prompt
+- Open the repo in a code editor 
+- Start Flask app by running the following code in command prompt
 
     `python app.py`
     
-4. Visit [localhost: 5000](http://localhost:5000/) in your browser
+- Visit [localhost: 5000](http://localhost:5000/) in your browser
 
 
 ## Implementation Details
