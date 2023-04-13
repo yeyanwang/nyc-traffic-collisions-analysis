@@ -15,6 +15,7 @@
     padding: 12px 30px;
     transition: 0.3s;
     border-radius: 12px 12px;
+    font-family: inherit;
 }
 
 /* Change background color of buttons on hover */
@@ -31,17 +32,17 @@
 
 .tabcontent {
     display: none;
-    border-radius: 0 0 6px 6px;
-    height: 500px;
+    border-radius: 6px;
+    height: 650px;
     position: relative;
 }
 
 /*Style title */
 .title {
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
-    font-size: xx-large;
+    font-size: 40px;
     color: rgb(255, 215, 0);
-    padding: 7px 10px 7px 7px;
+    padding: 7px 10px 7px 10px;
 }
 
 /*Style the right area of the title content (links) */
@@ -64,28 +65,33 @@
     position: absolute;
     left: 0;
     top: 0;
-    padding: 20px 0px 0px 5px;
     margin-top: 10px;
-    height: 600px;
-    width: 700px;
+    height: 650px;
+    width: 800px;
     border-radius: 6px 6px;
+    color:rgb(80, 100, 172)
 }
 
 #bar {
     position: absolute;
-    left: 750px;
+    left: 810px;
     top: 0;
-    padding: 2px 0px;
-    height: 600px;
-    width: 550px;
+    height: 300px;
+    width: 620px;
+}
+
+#bar1 {
+    position: absolute;
+    left: 810px;
+    top: 320px;
+    height: 300px;
+    width: 620px;
 }
 
 #line {
     position: absolute;
     left: 20;
     top: 50;
-    margin-left: 20px;
-    padding: 2px 0px;
     height: 600px;
-    width: 1200px;
+    width: 700px;
 }
